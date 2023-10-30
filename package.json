@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "name": "yako-test-4",
+  "version": "1.0.0",
+  "description": "moderation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy",
+  "license": "ISC"
+}

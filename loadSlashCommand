@@ -1,0 +1,15 @@
+const Discord = require ("disocrd.js")
+
+module.export = async bot => {
+
+    let commands = [];
+
+    bot.commands.forEach(command => {
+
+        let slashcommand = new Discord.SlashCommandBuilder()
+        .setName(command.name)
+        .setDescription(command.description)
+        .setDMPermission(command.dm)
+        .setDefaultMemberPermission(command.permission)
+    })
+}
