@@ -8,3 +8,4 @@ cahier des charges de Yako
 -faire un welcome
 -mettre un auto role
 -clear un chat 
+-faire en sorte qu'il fonctionne bien sans un rôle admin mais avec son propre role
