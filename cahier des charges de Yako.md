@@ -9,3 +9,4 @@ cahier des charges de Yako
 -mettre un auto role
 -clear un chat 
 -faire en sorte qu'il fonctionne bien sans un rôle admin mais avec son propre role
+-faire en sorte qu'il n'y a pas besoin de l'ID de la personne banni pour l'unban
