@@ -187,4 +187,4 @@ if (cmd === `${prefix}nombre`){
 })
 
 
-client.login("MTA1OTkxMzMzMzMwMzY4MTEwNg.GyivAP.FhT3SH7Vq2BwJxidO46PCXxhS_c1aFr6h650UU");
+client.login("");
